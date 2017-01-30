@@ -14,6 +14,7 @@
 			$data = 'Меня зовут '.$name.', мне '.$age.'годика';
 			echo $data;
 			echo "<br>";
+			
 			$dataWithout = "Меня зовут $name, мне $age годика";
 			echo $dataWithout;
         ?>
